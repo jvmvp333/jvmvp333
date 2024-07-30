@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 0-0
 
-<!--
-**jvmvp333/jvmvp333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é joão victor
 
-Here are some ideas to get you started:
+-Estou estudando no alura
+-Estou me desenvolvendo na linguagem Javascrip
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo
+
+00001108618650sp@al.educacao.sp.gov.br
+
+![](https://tenor.com/pt-BR/view/pubgda-1-kill-alma-sevinci-gif-7037318915877847102#:~:text=Alma%20Sevinci%20GIF-,%E2%97%8F%20GIF%20SD,-%E2%97%8F%20GIF%20HD)
