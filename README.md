@@ -10,4 +10,4 @@ meu nome é joão victor
 
 00001108618650sp@al.educacao.sp.gov.br
 
-![](https://tenor.com/pt-BR/view/pubgda-1-kill-alma-sevinci-gif-7037318915877847102#:~:text=Alma%20Sevinci%20GIF-,%E2%97%8F%20GIF%20SD,-%E2%97%8F%20GIF%20HD)
+![](https://media1.tenor.com/m/YamURMgJQD4AAAAd/pubgda-1-kill-alma-sevinci.gif)
